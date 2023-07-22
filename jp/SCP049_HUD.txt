@@ -11,13 +11,13 @@
 ターゲットが見つかりません。
 あなたはすでにフルヘルスです。
 この死体はすでに消費されている。
-Slow and fragile, SCP-049 specializes as an ambush predator, able to quickly turn the tide of a game with hordes of "cured" personnel.
-Fast and dangerous, SCP-049-2 instances swarm ahead of their master to sow panic and chaos, creating new bodies to join the tide.
-Cardiac Attack:You reach out your gloved hand to touch the hearts of those who suffer from the Pestilence, causing their bodily functions to fail rapidly; giving you the chance to administer your cure.
-Good Sense of the Doctor:You shift your full focus to a tainted soul. You move faster, determined to rid them of the Pestilence. You’re able to gauge a victim’s distance using the foul aroma of the disease.
-The Doctor’s Call:You signal your location to your cured personnel. As they stand near you, their bodies toughen up to tolerate more damage. A great doctor always checks up on their patients, after all.
-Waste Not, Want Not:Your medical instincts are not without a need for efficiency; you can revive the cured again and again to provide more insights. It's not every day that the dead rise twice.
-Lobotomized Bloodlust:Your mind was forcefully removed, leaving you with only violence. You find yourself pursuing humans faster and faster as you chase them down …
-Voracity:The cure isn't entirely without benefits. You can regenerate your flesh using the mass of any nearby corpse. There’s no sharing however, so make sure you’re the first to the feast.
+動きが遅く壊れやすいSCP-049は、待ち伏せ型の捕食者に特化しており、"治療された "人員の大群によってゲームの流れを素早く変えることができる。
+速く危険なSCP-049-2インスタンスは、パニックと混沌をまき散らすためにマスターの前に群がり、潮流に加わるために新たな体を作り出す。
+心臓発作：あなたは手袋をはめた手を伸ばし、疫病に苦しむ人々の心臓に触れる。
+医者の勘:君は汚染された魂に全神経を集中させる。あなたはより速く動き、ペスティレンスを取り除こうと決意する。君は疫病の悪臭から被害者との距離を測ることができる。
+The Doctor's Call:あなたは治癒した仲間に自分の位置を知らせる。あなたの近くに立つと、彼らの体はより多くのダメージに耐えられるように丈夫になる。名医は常に患者をチェックするものだ。
+無駄を省き、欲しがらない:あなたの医学的な直感は効率性を必要としないわけではない。死者が二度蘇ることはそうそうない。
+ロボトミー化した血への渇望：あなたの心は強制的に取り除かれ、暴力だけが残った。気がつくと、人間を追いかけるスピードがどんどん速くなっている．
+貪欲さ:治療にはまったく利点がないわけではない。近くにある死体の塊を使って肉体を再生することができる。しかし、共有はできないので、あなたが最初にごちそうになることを確認すること。
 蘇生
 [key]を長押し

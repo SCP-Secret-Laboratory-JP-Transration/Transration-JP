@@ -1,8 +1,8 @@
-SCP-096 starts docile, and can become enraged when someone sees its face, or harms it. Rage empowers with many abilities, which assist SCP-096 in following transgressor’s lights before the fury subsides.
-Try Not to Cry:It's hard to go on… but leaning on something helps you to calm down, either to hide… or to wait for someone to come by.
-Melee Attack:Tear through anything in your way to get to those who've hurt you. Your attacks will destroy doors and injure humans.
-Charge:Cut their escapes short — they deserve it. You bolt straight ahead for a short distance, demolishing anything in your path.
-Rage Only
-Docile Only
-Hold [key] to enter Rage.
-Hold [key] to force-exit Rage.
+SCP-096は最初はおとなしく、誰かに顔を見られたり、危害を加えられたりすると激怒する。激怒は多くの能力でパワーアップし、激怒が収まる前にSCP-096が違反者のライトを追うのを助ける。
+泣かないようにする:進むのは難しい...しかし、何かにもたれかかることで落ち着き、隠れるか...誰かが寄ってくるのを待つことができる。
+近接攻撃:邪魔なものは何でも切り裂き、自分を傷つけた者のもとへたどり着こう。あなたの攻撃はドアを破壊し、人間を傷つける。
+突撃:相手の逃走を寸断する。短い距離をまっすぐ突進し、行く手にあるものをすべて破壊する。
+発狂のみ
+従順のみ
+[キー]を押し続けると発狂に入る。
+[キー]を押し続けると発狂を強制終了する。

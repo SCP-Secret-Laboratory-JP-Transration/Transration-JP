@@ -63,11 +63,11 @@ SCP
 軍人
 スピーカーを使用
 エレベータアクセス拒否
-SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.
-Virtually Indestructible:There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.
-Unlimited Access:You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time.
-Deep Learning:Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.
-Overwatch:Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter.
+SCP-079には直接的な戦闘や移動機能はない。代わりに、各部屋にある監視カメラを通して世界を見たり、対話したりする。使用可能な能力はすべてHUDの右上に表示されている。
+事実上破壊不能：ヘビー・コンテインメント・ゾーンには3つの発電機がある。すべてが作動した場合、再収容される。発電機にはカウントダウン・シーケンスがあり、発電機の "CANCEL "ボタンを押すことで中断できます。
+無制限アクセス：あなたは他のSCPを助けるために、施設内の多数のシステムを操作することができます。画面右上には、使用可能なアビリティが表示されています。これらのアビリティを使用するには補助パワー（AP）が必要で、時間経過とともに回復する。
+ディープ・ラーニング:ターミネーションを手伝ったり、他のSCPに役立つ行動をとると、新しいアクセス・ティアへの経験値が得られる。新しいティアが増えるごとにAPが増え、新しいアビリティが付与される。
+オーバーウォッチ:どこにいても、どこにいても、ユニークな視点を得ることができる。興味のある場所、人物、オブジェクトにPingを送ることができ、虐殺を支援することができる。
 $ブリーチスキャナー$が利用可能になりました。 — $施設マップ$でチーム/区画を選択すると、定期的に生存者をスキャンできます。
 補助電力の供給が停止
 補助電力の供給が減少 ([precentage])

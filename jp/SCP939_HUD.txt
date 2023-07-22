@@ -1,46 +1,46 @@
-Press [key_attack] or [key_jump] to Lunge.
-Preview the voice (only you can hear this)
+[key_attack]または[key_jump]を押して突進する。
+音声を再生するする（あなただけが聞くことができます）
 -
-Remove the voice (hold)
-Play the voice (everyone can hear this)
-SCP-939 has killed you and has stolen your voice!
-If you do not wish your voice to be used, you can turn this feature off.
-Remember my choice
-Delete
+声を消す（ホールド）
+声を再生する（全員に聞こえる）
+SCP-939はあなたを殺し、声を盗んだ！
+自分の声を使われたくない場合は、この機能をオフにすることができます。
+選択を記憶しておく
+削除
 OK
-More information
-SCP-939 uses a mechanic where the last few seconds of your voice chat transmission is temporarily recorded. This can be played back by SCP-939 to lure out targets.\nThe recordings are automatically discarded if you leave the server, if SCP-939 dies, or upon round restart. Turning this feature off will remove all existing recordings of your transmissions.
-Cloud cannot be deployed at this position.
-Minimal Cloud size hasn't been reached. Hold the deploy key for longer.
-SCP-939 is blind, and sees through sound. It capitalizes on mistakes, using its silent steps and frightening speed to set up ambushes and go in for the kill.
-Claw:Click to swipe your claw in a wide arc in front of you, ripping flesh and bone from your chosen victim. Whilst focusing, your primary attack will allow you to lunge at your prey.
-Focus:Devoting your full energy to your senses, you can see prey from farther away, as well as being able to tell what type of prey they are, through the actions they perform.
-Amnestic Cloud:Fill your air sacs with a dangerous neurochemical gas, projecting it in a radius which is determined by the time it was charged. Humans who inhale the gas lose perception of SCP-939, and cannot perform certain actions. Beware though, attacking or being attacked will reveal you for a short time.
-With Many Voices:Humans you kill have a chance at giving you their last words, allowing you to steal their voice and utilize it to deceive others. In addition, SCP-939 can also mimic some basic sounds, such as disguising their footsteps to match humans.
-Ultrasensitive:SCP-939 is able to sense nearby heat sources, represented by a small radius of normal vision. Outside of this however, you must rely on sound in order to track nearby prey. The louder the sound, the further away you can hear it from. The range of your vision is affected by your stamina levels.
+その他の情報
+SCP-939は、ボイスチャットの最後の数秒間を一時的に録音する仕組みになっています。この録音はサーバーを離れたり、SCP-939が死んだり、ラウンドを再開した際に自動的に破棄されます。この機能をオフにすると、あなたの送信記録がすべて削除されます。
+この位置にはクラウドを展開できません。
+クラウドの最小サイズに達していません。展開キーを長く押してください。
+SCP-939は盲目で、音を通して見ている。ミスを利用し、静かな足取りと恐ろしいスピードで待ち伏せし、殺しにかかる。
+かぎ爪:クリックすると爪が前方に大きく弧を描き、選んだ犠牲者から肉と骨を引き裂く。集中している間は、主攻撃で獲物に突進することができる。
+フォーカス:自分の感覚に全エネルギーを注ぐことで、より遠くから獲物を見ることができる。
+Amnestic Cloud：気嚢を危険な神経化学ガスで満たし、チャージされた時間によって決まる半径内にガスを放出する。ガスを吸い込んだ人間はSCP-939を認識できなくなり、特定の行動ができなくなる。ただし、攻撃したり攻撃を受けたりすると、短時間だが正体がバレてしまうので注意。
+多くの声:あなたが殺した人間は、あなたに最後の言葉を残す可能性がある。また、SCP-939は基本的な音を模倣することができ、例えば足音を人間に似せることができる。
+超高感度:SCP-939は近くの熱源を感知することができる。しかしそれ以外の場所では、近くの獲物を追跡するために音に頼らなければならない。音が大きければ大きいほど、遠くからでもその音を聞き分けることができる。視界の範囲はスタミナのレベルに影響される。
 -
-Place Mimic Point
-Override position of Mimicry's sounds source
-Remove Mimic Point
-Make all sounds come from your current location
-Mimic Point set!
-Mimic Point removed!
-Mimic Point destroyed. You're out of range.
-Stolen Voices
+ミミックポイントを置く
+ミミクリーの音源の位置を上書きする。
+ミミックポイントの削除
+全ての音を現在地から鳴らす
+ミミックポイントを設定
+ミミックポイント削除
+ミミックポイント破壊 射程距離外です。
+盗まれた声
 -
-Environmental Mimicry
+環境ミミック
 -
-(Cooldown: [time]s)
+(クールダウン: [time]s)
 -
-Impersonation
-Shooting
-Miscellaneous
+なりすまし
+射撃
+その他
 -
 -
-Roles
-Hotkey  [key]
-Play the selected sound (everyone can hear this)
-Stop the playback
-Drag to trim the recording
-Toggle favorite. Recordings marked as favorite are bound to a hotkey.
-Drag to reorganize recordings
+役割
+ホットキー
+選択した音を再生する（誰でも聞くことができます）
+再生を停止する
+ドラッグでトリミング
+お気に入りを切り替えます。お気に入りとしてマークされた録音は、ホットキーにバインドされます。
+ドラッグして録音を再編成する

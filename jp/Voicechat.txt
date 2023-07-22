@@ -1,23 +1,23 @@
-MUTED BY ADMIN
-GLOBALLY MUTED
-UNAUTHENTICATED
-ADJUST PRIVACY SETTINGS
-Your microphone is disabled due to your privacy settings.
-Voice Chat Privacy Settings
-This game uses voice chat. Using the push-to-talk keys (default "Q" and "V") will capture your microphone input and transmit it to other users connected to the server.\nCertain game features may temporarily store short samples of your transmissions, which will be automatically erased after disconnecting from the server.
-Reject all (disable microphone capture)
-Personalize settings
-Accept all
-Accept
-Deny
-Microphone Capture
-Allow the game to capture your microphone and transmit it to users when push-to-talk keys are held. A microphone icon will be displayed at the bottom of the screen, indicating active transmission. The game will never transmit, or use your microphone without the indicator being visible.
-Short Recordings
-Allow game mechanics to use short recordings of your voice. This includes SCP-939's "With Many Voices" ability, which can record and play back short voice samples of killed players. All recordings are discarded the moment you leave the server, or once the round restarts.
-Apply settings
-Return
-Press "[key]" and navigate to "Settings" to adjust.
-Mute alive players
-Mute other spectators
-Mute lobby
-Mute round summary global chat
+管理者によってミュートされた
+グローバル・ミュート
+未認証
+プライバシー設定を調整する
+プライバシー設定により、マイクが無効になっています。
+ボイスチャットのプライバシー設定
+このゲームではボイスチャットを使用します。プッシュ・トゥー・トークキー（デフォルトは "Q "と "V"）を使用すると、あなたのマイク入力がキャプチャされ、サーバーに接続されている他のユーザーに送信されます。◆特定のゲーム機能では、あなたの送信の短いサンプルが一時的に保存されることがありますが、サーバーから切断されると自動的に消去されます。
+すべて拒否する（マイクキャプチャを無効にする）
+パーソナライズ設定
+すべて受け入れる
+許可する
+拒否する
+マイクキャプチャ
+プッシュ・ツー・トークキーを押したときに、マイクをキャプチャしてユーザーに送信できるようにします。画面下部にマイクアイコンが表示され、送信中であることを示します。インジケータが表示されていない状態で、ゲームがマイクを送信したり使用したりすることはありません。
+ショートレコーディング
+ゲームメカニックがあなたの声を短く録音して使用できるようにします。これにはSCP-939の "多くの声とともに "能力も含まれる。すべての録音はサーバーを離れるか、ラウンドが再開されると破棄される。
+設定を適用する
+戻る
+[key]を押し、[設定]に移動して調整してください。
+生きているプレイヤーをミュートする
+他の観戦者をミュートする
+ロビーをミュートする
+グローバルチャットをミュートする

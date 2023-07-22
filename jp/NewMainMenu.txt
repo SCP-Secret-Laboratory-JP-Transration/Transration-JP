@@ -21,51 +21,51 @@
 操作
 ゲームプレイ
 その他
-Window Mode
-Exclusive Fullscreen
-Borderless Window
-Maximized Window
-Windowed
-V-Sync
-FPS Limit
-Off
-Texture Quality
-Decals
-Shadows
-Shadow Resolution
-Shadow Distance
-Motion Blur
-Color Correction
-Anti Aliasing
-Render Lights
-Master Volume
-Sound Effects
+ウィンドウモード
+専用フルスクリーン
+ボーダーレスウィンドウ
+最大化ウィンドウ
+ウィンドウ表示
+垂直同期
+FPSリミット
+オフ
+テクスチャ品質
+デカール
+シャドウ
+影の解像度
+影の距離
+モーションブラー
+色補正
+アンチエイリアス
+光処理
+主音量
+効果音
 ボイスチャット
 メニューミュージック
 Interface Volume
 メニューテーマ
-Fast Intro Fade
-Head Bob
-Toggle Sprint
-Display Exact HP Value
-Rich Presence
-Public Lobby
-Toggle Search
-SCP-079 - Toggle View Mode
-SCP-079 - Post-Processing
+イントロ画面のカット
+ヘッドボブ
+走り切替
+正確なHP値の表示
+RICH Presence
+パブリックロビー
+トグル検索
+SCP-079 - 表示モードの切り替え
+SCP-079 - 後処理
 言語
 メインメニュー
 接続
 戻る
-This change will require a reload.\nReload the menu now?
+この変更にはリロードが必要です。\n今すぐメニューをリロードしますか？
 はい
 いいえ
 本当にやめますか？
-Screen Resolution
+解像度
 IPを隠す
 おかえりなさい, {username}!
 クレジット
-AUTHENTICATING
+認証中
 中央サーバーに接続中...
 <color=green>接続が確立されました</color>
 <color=red>接続失敗 (詳細はコンソールを確認してください)</color>
@@ -73,22 +73,22 @@ AUTHENTICATING
 <color=red>Discordの認証に失敗 (詳細はコンソールを確認してください)</color>
 無効
 秒
-Ragdoll Cleanup Time
-Display Steam Profile
+ラグドール清掃時間
+スチームプロフィール表示
 プレイヤーリストのアイコンをクリックすることで、プレイヤーがあなたのSteamプロフィールを閲覧できるようになります。
-Do Not Track (DNT)
-Forbids the server to use your data (IP address, user ID, etc.) in purposes not related to the server security.
-Graphics API
-Creating game servers directly from the game is no longer supported.\nThere are currently 3 ways of creating a SCP:SL server:\n- You can download SCP:SL dedicated server (Steam AppID: 996560) and run it on your computer\n- You can rent a VPS or a Dedicated Server from a hosting provider and run SCP:SL dedicated server there\n- You can rent a SCP:SL server from a game hosting provider that supports SCP:SL (eg. ZAP Hosting)\n\nClick the links below to get more info.\nYou can ask our tech support (link to our Discord server can be found in the main menu) for assistance.
-CREATE ANYWAY
-READ MORE
-RENT A SERVER
+追跡禁止（DNT）
+サーバーがあなたのデータ（IPアドレス、ユーザーIDなど）をサーバーのセキュリティに関係ない目的で使用することを禁じます。
+グラフィックスAPI
+SCP:SL専用サーバー（Steam AppID:996560）をダウンロードし、自分のコン ピューターで実行する。SCP:SLをサポートしているゲームホスティングプロバイダー（例：ZAP Hosting）からSCP:SLサーバーを借りることができます。
+とにかく作る
+もっと読む
+レンタルサーバー
 キャンセル
 秒
-For playing our game!
-Flash Taskbar On Spawn
-Ambient Occlusion
-Volumetric Lights
-Bloom
-Toggle Subtitles
+ゲームをプレイするために
+スポーン時のフラッシュタスクバー
+アンビエントオクルージョン
+ボリュームライト
+ブルーム
+トグル字幕
 作戦ガイド
