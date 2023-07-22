@@ -1,7 +1,7 @@
 軽度収容区画の封鎖まで
 ！区画から退避してください！
-!  PLEASE EVACUATE  !
-threat analysis in progress
-PREPARING SECURITY SYSTEMS
-systems ready to commence
-initializing procedure p-b-3
+!  避難してください  ！
+脅威分析中
+セキュリティシステム準備中
+システム準備完了
+初期化手順 P-B-3

@@ -1,15 +1,15 @@
-Server IP Display Mode
-Interface Language
-Changes won't take immediate effect in some places.\nFull game restart recommended.
-Loading...
-Subtitles
-Healthbar Mode
-Exact HP Number
-Percentage
-Role Intro Animation
-Regular
-Fast
-Controls the duration of the full-screen text animation containing the name of your new role.
-Hidden
-Allows server IP address to be hidden on interface elements.
-Flash Taskbar on Respawn
+サーバーIP表示モード
+インターフェース言語
+ゲームの再起動を推奨します。
+読み込み中
+字幕
+ヘルスバーモード
+正確なHP数値
+パーセンテージ
+役割紹介アニメーション
+レギュラー
+速い
+新しいロールの名前を含むフルスクリーンテキストアニメーションの時間をコントロールする。
+非表示
+サーバーIPアドレスをインターフェイス要素に非表示にできます。
+リスポーン時のフラッシュタスクバー

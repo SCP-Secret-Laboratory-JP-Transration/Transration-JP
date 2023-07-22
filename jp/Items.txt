@@ -14,7 +14,7 @@
 13~COM-15
 14~応急処置キット~怪我を直します
 15~懐中電灯~そこには光がある
-16~Micro H.I.D.~Mobile high-intensity electrical discharge thrower.
+16~Micro H.I.D.~持ち運び式高強度放電投擲機。
 17~SCP-500~飲んだらめっちゃ回復
 18~SCP-207~飲んだら速くなる～
 20~MTF-E11-SR
@@ -24,10 +24,10 @@
 25~高出力グレネード~ドカン！
 26~閃光手榴弾~敵の目を奪う
 30~COM-18
-31~SCP-018~Superball able to bounce with extreme efficiency.
-32~SCP-268~When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
-33~Adrenaline~Temporarily increases endurance.
-34~Painkillers~Relieve minor injuries.
+31~SCP-018~超効率的なバウンドが可能なスーパーボール。
+32~SCP-268~装着すると、ユーザーの操作によって中断されない限り、一時的に姿が見えなくなる。
+33~Adrenaline~持久力を一時的に高める。
+34~Painkillers~軽傷を和らげる。
 35~コイン~これが役に立つとは思えない
 36~軽量アーマー
 37~戦闘アーマー
@@ -35,10 +35,10 @@
 39~.44 Revolver
 40~AK
 41~Shotgun
-42~キャンディ袋~A bag containing the following candies:
-43~SCP-2176~Your very own Ghostlight! Caution, very fragile...
-44~SCP-244-A~An ancient vase, freezing to the touch. Creates a large cloud of icy fog when placed.
-45~SCP-244-B~An ancient vase, freezing to the touch. Creates a large cloud of icy fog when placed.
-46~SCP-1853~Improves weapon manipulation skills.
-47~3-X Particle Disruptor
+42~キャンディ袋~以下のキャンディーが入っている袋：
+43~SCP-2176~あなただけのゴーストライト！注意、非常に壊れやすい...
+44~SCP-244-A~触ると凍る古代の壺。置くと氷の霧が立ち込める。
+45~SCP-244-B~触ると凍る古代の壺。置くと氷の霧が立ち込める。
+46~SCP-1853~武器操作のスキルを向上させる。
+47~3-X 粒子破壊装置
 48~COM-45

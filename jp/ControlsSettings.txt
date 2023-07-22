@@ -1,13 +1,13 @@
-Mouse Settings
-Sensitivity
-Aiming Sens. Reduction
-Raw Input
-Invert Y-Axis
-While aiming down sights, mouse sensitivity is divided by the scope's zoom amount. Targets will always appear to move by the same distance on the screen in relation to your mouse movement. You can increase or decrease the intensity of the reduction by adjusting this setting.
-Hold
-Toggle
-Aim Down Sights - Activation Mode
-Sprint - Activation Mode
-Pickup Items - Activation Mode
-Sneak - Activation Mode
-Mouse Look - Activation Mode
+マウス設定
+感度
+照準感度 低減
+未処理の入力
+Y軸反転
+照準が下にある間、マウス感度はスコープのズーム量で割られます。ターゲットは常に、マウスの動きに対して画面上で同じ距離だけ動いて見えます。この設定を調整することで、リダクションの強さを増減できます。
+ホールド
+切り替え
+照準ダウン - 動作モード
+スプリント - 動作モード
+アイテムを拾う - 動作モード
+スニーク - 動作モード
+マウス - 動作モード

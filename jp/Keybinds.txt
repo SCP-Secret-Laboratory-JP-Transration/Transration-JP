@@ -1,39 +1,39 @@
-Shoot
-Zoom
-Jump
-Interact
-Inventory
-Reload
-Sprint
-Voice Chat
-Sneak
-Move Forward
-Move Backward
-Move Left
-Move Right
-Player List
-Character Info
-Remote Admin
-Toggle Flashlight
-Alt Voice Chat
+射撃
+ズーム
+ジャンプ
+インタラクト
+インベントリ
+リロード
+走る
+ボイスチャット
+しゃがみ
+前進
+後方に移動
+左に移動
+右に移動
+プレイヤーリスト
+キャラクター情報
+リモート管理
+懐中電灯の切り替え
+ラジオボイスチャット
 Noclip
-Game Console
-Keycard Hotkey
-Inspect
-Cock Revolver
-Throw Item
-Primary Weapon Hotkey
-Secondary Weapon Hotkey
-Medical Hotkey
-Hide GUI
-Toggle Noclip Fog
-Grenade Hotkey
-Pause Menu
-Debug Log
-Free Look Mode
-Lock Door
-Release All Locks
-Blackout
-Lockdown
-Ping
-Breach Scanner
+ゲームコンソール
+キーカード ホットキー
+調べる
+コックリボルバー
+アイテムを投げる
+プライマリ武器ホットキー
+セカンダリ武器ホットキー
+メディカルホットキー
+GUI非表示
+ノクリップ霧の切り替え
+手榴弾ホットキー
+一時停止メニュー
+デバッグログ
+フリールック・モード
+ドアロック
+全ロック解除
+ブラックアウト
+ロックダウン
+ピング
+ブリーチスキャナー

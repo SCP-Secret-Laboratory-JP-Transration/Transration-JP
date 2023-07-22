@@ -1,12 +1,12 @@
-Volume
-Master
-Voice Chat
-Sound Effects
-Microphone Capture
-Device
-Privacy Settings
-Adjust
-Main Menu
-Music
-Interface
-Theme
+音量
+マスター
+ボイスチャット
+効果音
+マイク設定
+デバイス
+プライバシー設定
+調節
+メインメニュー
+音楽
+インターフェース
+テーマ

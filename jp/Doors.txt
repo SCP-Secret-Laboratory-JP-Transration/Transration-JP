@@ -7,4 +7,4 @@
 <color=green>アクセス許可</color>
 <color=#07A2FF>キーカードが必要</color>
 <color=orange>通過してください</color>
-<color=orange>閉めます</color>
+<color=orange>閉まります</color>

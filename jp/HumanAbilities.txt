@@ -1,7 +1,7 @@
-Sprint:Increases your movement speed, but also increases sound made while moving.
-Sneak:Your movements become silent, at the cost of a lot of speed.
-Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
-Unarmed:You have nothing. Find something. Anything.
-Access Card:You have an access card, it's not the best but don't lose it.
-Standard Issue:You are equipped with a Firearm, an Access Card, and some utility items.
-Armed & Dangerous:You have been consigned with heavy weaponry, an Access Device, and medical supplies.
+走る:移動速度が上がるが、移動中の音も大きくなる。
+しゃがみ:移動が無音になる。
+インベントリ：インベントリを開き、LMBで拾ったアイテムを選択するか、RMBでアイテムをドロップする。
+丸腰：何も持っていない。何かを探せ。何でもいい。
+アクセスカード:あなたはアクセスカードを持っている。
+標準装備:あなたは銃器、アクセスカード、ユーティリティアイテムを装備しています。
+Armed & Dangerous:あなたは重火器、アクセス・デバイス、医療品を装備している。

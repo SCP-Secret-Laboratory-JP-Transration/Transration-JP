@@ -1,5 +1,5 @@
 #INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
-インターコム
-ブロード
--キャスティング
+施設内放送
+配信中
+-放送中
 システム

@@ -1,4 +1,4 @@
-WARNING
-OKAY
-<b>Intel graphics</b> have been detected which is <b>not supported</b>.\nIt is <b>recommended</b> to use a <b>non-integrated</b> graphics card.\nThe game may <b>often crash</b> with the current setup.
-An important system update that is required by the voice chat cannot be found. Please ensure that your Windows is fully up to date, otherwise the game may not function properly. If this issue persists, please contact our tech support team for further assistance
+警告
+了解
+<b>Intel graphics</b> が検出された。 <b>Intel graphicsは対応していません。</b>.\n<b>推奨</b> されているグラフィックカードを使用してください。\nゲームがこの様になる可能性があります。<b>現在のセットアップでクラッシュする</b>
+ボイスチャットに必要な重要なシステムアップデートが見つかりません。Windowsが最新の状態でない場合、ゲームが正常に動作しない可能性があります。この問題が解決しない場合は、技術サポートチームまでお問い合わせください。

@@ -9,7 +9,7 @@
 ようこそUser!
 ワークステーションが起動中
 ワークステーション - <color=#0c0>起動完了</color>
-<size=52><color=#ccc>SITE-02 銃器改造システム</color> - レディ</size>\n<size=42><color=#ccc>アタッチメントを変更するには、銃器を装備してください。</color></size>
+<size=52><color=#ccc>SITE-02 武器ワークステーション</color> - 準備完了</size>\n<size=42><color=#ccc>アタッチメントを変更するには、銃器を装備してください。</color></size>
 パワーダウン
 ワークステーションがシャットダウン中
 詳細を開く
